@@ -1,4 +1,4 @@
-### Hello fellow Coders 👋
+### Hello Coders 👋
 
 <!--
 **jahangeeraslam1/jahangeeraslam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I thought I should create this GitHub page to act as a portfolio for a few of my development projects which I am proud of. 
+
+I have created this GitHub page to act as a portfolio for a few of my development projects. 
 
 Qualfications / Skills:
 - 🔭 MSc in Cybersecurity
-- 📫  BSc in Computer Scicience
-- 🤔 Looking for employment oppurtunuties in Software/Cyber
+- 📫 BSc in Computer Scicience
+- 🤔 One year of indsutry expereince working as an AR Consultant 
 
-Feel free to browse my code and if you have any querstions please reach out to : Jahangeeraslam16@outlook.com
+Currently seeking new employment oppurtunities in Software/Cyber roles. 
+
+Feel free to browse my code and if you have any questions or would like to have a chat, you can reach me on : Jahangeeraslam16@outlook.com
 

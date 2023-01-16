@@ -24,5 +24,5 @@ Qualfications / Skills:
 
 Currently seeking new employment oppurtunities in Software/Cyber roles. 
 
-Feel free to browse my code and if you have any questions or would like to have a chat, you can reach me on : Jahangeeraslam16@outlook.com
+Feel free to browse my work and if you have any questions or would like to have a chat, you can reach me on : Jahangeeraslam16@outlook.com
 

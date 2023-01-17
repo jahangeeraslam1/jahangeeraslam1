@@ -19,8 +19,8 @@ I have created this GitHub page to act as a portfolio for a few of my developmen
 
 Qualfications / Skills:
 - 🔭 MSc in Cybersecurity
-- 📫 BSc in Computer Scicience
-- 🤔 One year of industry expereince working as an AR Consultant 
+- 📫 BSc in Computer Science
+- :eyeglasses: One year of industry expereince working as an AR Consultant 
 
 Currently seeking new employment oppurtunities in Software/Cyber roles. 
 

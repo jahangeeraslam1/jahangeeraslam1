@@ -15,14 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have created this GitHub page to act as a portfolio for a few of my development projects. 
+I have created this GitHub page to act as a portfolio for a few of my development projects which I have undertook during my time at univeristy. 
 
 Qualfications / Skills:
-- 🔭 MSc in Cybersecurity
-- 📫 BSc in Computer Science
+- :closed_lock_with_key: MSc in Cybersecurity
+- :school_satchel: BSc in Computer Science
 - :eyeglasses: One year of industry expereince working as an AR Consultant 
 
 Currently seeking new employment oppurtunities in Software/Cyber roles. 
 
-Feel free to browse my work and if you have any questions or would like to have a chat, you can reach me on : Jahangeeraslam16@outlook.com
+Feel free to browse my work and if you have any questions or would like to have a chat, you can reach me using the email address below. 
+
+Happy Browsing! 
+
+
+:email: Jahangeeraslam16@outlook.com
+:globe_with_meridians: https://www.linkedin.com/in/jahangeer-a-5a90061a5/
 

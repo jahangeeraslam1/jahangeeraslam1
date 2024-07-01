@@ -20,9 +20,7 @@ I have created this GitHub page to act as a portfolio for a few of my developmen
 Qualfications / Skills:
 - :closed_lock_with_key: MSc in Cybersecurity
 - :school_satchel: BSc in Computer Science
-- :eyeglasses: One year of industry expereince working as an AR Consultant 
-
-Currently seeking new employment oppurtunities in Software/Cyber roles. 
+- :eyeglasses: Over 2 years of industry expereince working as a Consultant.
 
 Feel free to browse my work and if you have any questions or would like to have a chat, you can reach me using the email address below. 
 

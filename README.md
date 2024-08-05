@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have created this GitHub page to act as a portfolio for a few of my development projects which I have undertook during my time at univeristy. 
-
-Qualfications / Skills:
-- :closed_lock_with_key: MSc in Cybersecurity
-- :school_satchel: BSc in Computer Science
-
-Feel free to browse my work and if you have any questions or would like to have a chat, you can reach me using the email address below. 
+I have created this GitHub page to act as a portfolio showcasing my experince with various development projects.
 
 Happy Browsing! 
 
